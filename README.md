@@ -10,7 +10,8 @@ see dependencies in pom.xml
   * execute
 ````mvn clean install````
   * You should have this dependency in your local ``.m2/repository``
-  * 
+
+
 ## Automatic installation
 
 Use jitpack.io: 
